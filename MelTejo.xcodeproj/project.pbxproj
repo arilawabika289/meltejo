@@ -148,7 +148,7 @@
 			);
 			mainGroup = 010000000000000000000030;
 			packageReferences = (
-				010000000000000000000158 /* XCLocalSwiftPackageReference "../analytics-kit" */,
+				010000000000000000000158 /* XCLocalSwiftPackageReference "Packages/AnalyticsKit" */,
 			);
 			productRefGroup = 010000000000000000000034 /* Products */;
 			projectDirPath = "";
@@ -419,19 +419,20 @@
 /* End XCConfigurationList section */
 
 /* Begin XCLocalSwiftPackageReference section */
-		010000000000000000000158 /* XCLocalSwiftPackageReference "../analytics-kit" */ = {
+		010000000000000000000158 /* XCLocalSwiftPackageReference "Packages/AnalyticsKit" */ = {
 			isa = XCLocalSwiftPackageReference;
-			relativePath = ../analytics-kit;
+			relativePath = Packages/AnalyticsKit;
 		};
 /* End XCLocalSwiftPackageReference section */
 
 /* Begin XCSwiftPackageProductDependency section */
 		010000000000000000000155 /* AnalyticsKit */ = {
 			isa = XCSwiftPackageProductDependency;
-			package = 010000000000000000000158 /* XCLocalSwiftPackageReference "../analytics-kit" */;
+			package = 010000000000000000000158 /* XCLocalSwiftPackageReference "Packages/AnalyticsKit" */;
 			productName = AnalyticsKit;
 		};
 /* End XCSwiftPackageProductDependency section */
+
 	};
 	rootObject = 010000000000000000000070 /* Project object */;
 }
