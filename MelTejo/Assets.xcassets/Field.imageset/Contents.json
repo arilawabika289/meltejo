@@ -1,11 +1,13 @@
 {
   "images" : [
     {
-      "filename" : "field.png",
+      "filename" : "field.jpg",
+      "filename" : "field.jpg",
       "idiom" : "universal",
       "scale" : "1x"
     },
     {
+      "filename" : "field.jpg",
       "idiom" : "universal",
       "scale" : "2x"
     },

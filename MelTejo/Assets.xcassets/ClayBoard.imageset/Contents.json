@@ -1,17 +1,17 @@
 {
   "images" : [
     {
-      "filename" : "clay-board.png",
+      "filename" : "clay-board.jpg",
       "idiom" : "universal",
       "scale" : "1x"
     },
     {
-      "filename" : "clay-board.png",
+      "filename" : "clay-board.jpg",
       "idiom" : "universal",
       "scale" : "2x"
     },
     {
-      "filename" : "clay-board.png",
+      "filename" : "clay-board.jpg",
       "idiom" : "universal",
       "scale" : "3x"
     }
