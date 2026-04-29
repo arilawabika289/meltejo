@@ -1,0 +1,59 @@
+# macOS
+.DS_Store
+
+# Xcode
+build/
+DerivedData/
+*.xcworkspace
+xcuserdata/
+*.xcuserstate
+*.xcresult
+*.xccheckout
+*.xcscmblueprint
+*.pbxuser
+!default.pbxuser
+*.mode1v3
+!default.mode1v3
+*.mode2v3
+!default.mode2v3
+*.perspectivev3
+!default.perspectivev3
+
+# SwiftPM
+.build/
+.swiftpm/
+
+# Logs
+*.log
+
+# Environment
+.env
+.env.*
+
+# Fastlane (якщо зʼявиться)
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots
+
+# CocoaPods (якщо додаси)
+Pods/
+
+# Carthage (якщо буде)
+Carthage/Build/
+
+# Archives
+*.xcarchive
+
+# IPA
+*.ipa
+
+# Certificates / secrets
+*.p12
+*.mobileprovision
+*.cer
+
+# Editors / temp
+.idea/
+.vscode/
+*.swp
+*.tmp
